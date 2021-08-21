@@ -3,8 +3,8 @@ const Header = () => {
     <div class="Header-main">
         <div class="Header-logo">
             <h1>
-                <a href="https://nilia2020.github.io/spaPlatzi/">
-                    100tifi.co            
+                <a href="https://nilia2020.github.io/spaPlatzi/index.html">
+                    100tifi.co
                 </a>
             </h1>
         </div>
